@@ -17,4 +17,7 @@ function deleteFromObjectByKey(object, key){
   return tempObj;
 }
 
-//function destructivelyDeleteFromObjectByKey(object, key){
+function destructivelyDeleteFromObjectByKey(object, key){
+  
+  
+}
